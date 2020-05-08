@@ -1,4 +1,5 @@
 test
 
 what a joke
-![05-06-1118.png](/_images)
+
+!(/_images/05-06-1118.png)
