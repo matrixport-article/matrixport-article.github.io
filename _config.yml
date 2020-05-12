@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 能改
-email: 能改
+title: Matrixport
+email: You can write an email address here.
 description: >- # this means to ignore newlines until "baseurl:"
-  能改能改能改能改能改能改能改能改能改能改能改能改能改能改能改能改能改能改能改能改能改
+  Matrixport is your gateway to the digital economy where you can trade, invest and grow your wealth all in one stop.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 language: zh-CN
-twitter_username: 能改
-github_username:  能改
+twitter_username: realMatrixport
+github_username:  matrixport-article
 
 # Build settings
 theme: minima
