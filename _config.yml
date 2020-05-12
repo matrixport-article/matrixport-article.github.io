@@ -18,8 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Matrixport
-email: You can write an email address here.
+title: Grow Your Wealth.
 description: >- # this means to ignore newlines until "baseurl:"
   Matrixport is your gateway to the digital economy where you can trade, invest and grow your wealth all in one stop.
 baseurl: "" # the subpath of your site, e.g. /blog
