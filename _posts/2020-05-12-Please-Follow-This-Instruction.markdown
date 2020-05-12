@@ -1,6 +1,6 @@
 目的：说明如何用Github写文章、并发布到公开可访问地址。
 
-## 过程描述
+## 使用过程描述
 1. 用帐号登录 [github](www.github.com)，帐号联系杨姣
 
 2. 你看到一个仓库叫做 **matrixport-article.github.io**
@@ -33,8 +33,13 @@
 ![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/1/name.png)
 
 ### 如何插入图片
+
 * 到编辑器页面，按照以下格式插入图片
 `![](https://raw.github.com/这里是帐号名/这里是仓库名/master/放图片的一级目录/文件夹目录/图片名称)`
 
 * 例如：存在在 _images 文档下子文件夹杂 1 下面的一个名为 repo.png 的图片，写为：
 `![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/1/repo.png)`
+
+----
+## 你当前看到的这个页面，编辑器里的内容如下
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/1/edit.png)
