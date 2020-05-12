@@ -25,6 +25,6 @@
 
 ### 如何插入图片
 * 到编辑器页面，按照以下格式插入图片
-> ![图片的名称包含后缀](图片的路径)
+![repo.png](/_images/1)
 例如：存在在 _images 文档下子文件夹杂 1 下面的一个名为 repo.png 的图片，写为：
-> ![repo.png](/_images/1)
+![example.png](/_images/1)
