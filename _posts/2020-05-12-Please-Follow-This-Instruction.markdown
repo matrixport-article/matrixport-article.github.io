@@ -3,7 +3,7 @@
 ## 过程描述
 * 用帐号登录 [github](www.github.com)，帐号联系杨姣
 * 你看到一个仓库叫做 **matrixport-article.github.io**
-![](/_images/1/repo.png)
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/1/repo.png)
 * 点击进入，你会看到一个目录，找到名叫 post 的目录，这就是你要创建文章的地方
 ![post.png](/_images/1)
 * 你看到的一个 file 就是一篇文章，点击 create new file 就是创建一篇文章
