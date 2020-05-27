@@ -92,10 +92,6 @@ BTC的资产配置及避险属性（含后市BTC价格趋势分析），2020年5
 - Bitcoin Difficulty Ribbon是短期买入指标，目前正在变窄，5月17日，难度带正在变窄，但考虑到减半和丰水期的影响，故本次并不考虑该指标；
 - 资金费率在报告期内并未出现异常水平，因此并未给出任何短期价格信号。
 
-# Disclaimer
-Matrixport provides this analysis as general information only. Matrixport accepts no responsibility for the accuracy or completeness of any information herein contained and Matrixport shall not be responsible for any loss arising from any investment based on any forecast or other information herein contained. The contents of this materials should not be construed as an express or implied promise, guarantee or implication by Matrixport that the forecast information will eventuate. The cryptocurrency market is highly volatile. Buying, selling, holding, or investing in cryptocurrencies or related product carries various risks and is not suitable for all investors. Please seek expert advice, and always ensure that you fully understand these risks before participating in the cryptocurrency market.
-Matrixport is not acting as a financial adviser, consultant or fiduciary to you with respect to any information provided. Any information available here is “general” in nature and for informational purposes only.
 # 免责声明
 Matrixport提供的分析仅作为一般信息进行提供。 Matrixport对此处包含的任何信息的准确性或完整性不承担任何责任，并且Matrixport对基于此处包含的任何预测或其他信息而进行的任何投资所造成的任何损失不承担任何责任。本材料的内容不应被理解为Matrixport对所预测的信息的明示或暗示承诺或保证。加密货币市场高度波动。购买，出售，持有或投资加密货币或相关产品存在各种风险，并不适合所有投资者。请您寻求专家意见，并始终确保您在参与加密货币市场之前完全了解相关风险。
 Matrixport在提供任何信息时并非担任您的财务顾问，咨询师或受托人。此处提供的任何信息本质上都是作为一般信息进行提供，仅供您参考。
-
