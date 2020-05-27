@@ -1,0 +1,101 @@
+# Matrixport市场研究报告
+BTC的资产配置及避险属性（含后市BTC价格趋势分析），2020年5月20日 Matrixport Research
+
+## 摘要
+- 从资产配置的角度来看，配置一定比例的BTC和ETH有助于构建风险更低的有效资产组合。本文基于2016年初至今的各类资产表现，根据现代资产组合理论尝试构建了加入BTC和ETH的资产组合，其回溯性表现较好。一般而言，对于风险偏好低的投资者，加密资产的配置比例较低，反之亦然。
+
+- 从避险的角度来看，BTC在大多数风险事件中表现不佳，仅在政治类突发事件发生的时候表现较佳，确实难以被认定为一般意义下的避险资产。相比而言，传统避险资产（包括黄金、美元和瑞士法郎）中，美元在不同风险事件下都表现较佳，是当之无愧的避险资产；黄金除了在地缘政治事件和美国大选中表现不佳，其他风险事件下表现都尚可；而瑞士法郎在不同风险事件下的表现都欠佳。
+
+- 基于5月17日的数据，中短期倾向于看跌BTC，主要由NVTS指标得出。
+
+## BTC是好的资产配置吗？
+不久前，Paul Tudor Jones（华尔街著名基金经理）将其超过1%的资产配置到比特币上。那么，BTC是好的资产配置吗？如果BTC是好的资产配置，配置多少比例的BTC比较合适？
+
+2016年至今，BTC和ETH的市场表现远好于其他大类资产，BTC的累计涨幅约为20倍，ETH的累计涨幅约为200倍，大类资产中黄金的表现最佳，但涨幅也仅为71%。与市场表现相对应，BTC和ETH的波动率也远高于其他大类资产，这意味着BTC和ETH的风险也越高。因此，无法仅从累计涨幅和波动率来判断BTC是否为好的资产配置。
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/1.png)
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/13.png)
+
+现代资产组合理论认为，理性投资者将选择并持有有效的资产组合，即那些在给定的风险水平下使期望回报最大化的资产组合，或那些在给定期望回报率的水平上使风险最小化的资产组合。
+
+夏普比率通过投资收益与无风险收益之差的期望值，再除以标准差得出，其中标准差常被用来衡量资产组合的风险高低，标准差越高，代表该资产组合的风险越高。夏普比率常被用来判断评价不同的资产组合，一般来说，夏普比率越高，意味着投资者承担相同的风险，可以获得更高的收益率，该资产组合也就越有效。
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/14.png)
+
+全仓单一资产往往不是好的投资选择。分散化投资通过分散持有的风险资产，可在不减少预期收益率的情况下，减少整体风险暴露程度，进而提高夏普比率。分散化投资的主要原理是将不完全正相关的不同资产进行组合，可以降低该资产组合的标准差，也即风险暴露程度。一般来说，不同资产之间的正相关性越弱（负相关性越强），风险的减少越多，相同收益水平下夏普比率的提高也越多，因此能够构建更为有效的资产组合。
+
+相关性一般以相关系数来衡量，相关系数用+1和-1之间的数字表示。+1表示两种资产之间完全正相关，意味着它们总是朝着同一个方向一起移动。-1表示两种资产之间完全负相关，意味着两种资产总是朝着相反的方向移动。从相关系数矩阵来看，2016年年初至今，BTC和ETH与其他大类资产的相关性非常弱。
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/15.png)
+
+近期，虽然BTC与其他大类资产的正相关性有所上升，但总体来看，相关性仍然较弱。
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/17.png)
+
+因此，从资产配置的角度来看，配置一定比例的BTC和ETH是个不错的选择，能降低资产组合的整体风险、并提高资产组合的夏普比率，构建更有效的资产组合。
+
+有效边界是现代资产组合理论的核心所在，也是构建资产配置模型的基础。有效边界是在收益风险约束条件下同等对应最小风险的各种资产配置的集合。在有效边界左方的投资组合无法实现，而位于其右方的投资组合没有效率，因为在有效边界上的投资组合较其右方与其风险相同的投资组合有较高的收益率。
+
+图4是由BTC、ETH、黄金、石油、上证指数、标普500和标普中国债券指数等资产构建的有效边界。其中绿色部分为有效边界，蓝色部分为无效部分，因为在相同风险下，绿色部分的收益要高于蓝色部分。
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/11.png)
+
+表3为有效边界对应的资产组合具体情况，从中也可进一步验证上述结论，即在资产中配置一定比例的BTC和ETH有助于构建更为有效的资产组合——可以发现，在相近的收益率下，构建出的资产组合比单一资产的标准差（风险）更低、夏普比率更高。例如，BTC收益率约为105%，标准差约为0.8，夏普比率约1.3，而在我们构建出的资产组合中，收益率约为104%的资产组合，标准差仅为0.59，夏普比率则为1.7。
+
+对于不同风险偏好的投资者，对于加密货币的配置比例不同。一般而言，对于风险偏好低的投资者，其对应的有效资产组合中，对加密资产的配置比例较低，反之亦然。比如，某一投资者的风险偏好较低，在这一约束下，年化收益率最高仅能达到5.21%，可配置0.61%的BTC和0.27%的ETH，而另一风险偏好高的投资者，则可配置4.43%的BTC和3.09%的ETH投资者，达到15.64%的年化收益率（风险水平也相应提升）。
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/9.png)
+
+## BTC是好的避险资产吗？
+如上所述，BTC与大类资产的弱相关性让很多投资者将BTC视作避险资产，但BTC的高波动性，以及3月12日BTC和其他大类资产的同步暴跌，也让人越来越怀疑BTC的避险属性。那么，BTC真的是好的避险资产吗？或者说针对哪些风险事件，BTC是好的避险资产？
+
+根据Investopedia的定义，避险资产是指在市场动荡时期有望保值或增值的投资。黄金、美国国债以及国际主要流通货币（美元、日元、瑞郎等）都曾充当过避险资产。
+
+市场动荡时期往往对应着风险事件。本文参考广发证券对风险事件的分类，将其分为三类：经济危机；地缘政治事件、其他突发事件。选取风险事件的标志事件作为研究起点，看各类避险资产在此后1个月的表现情况（请注意这种处理方法忽视了其他事件对不同资产价格造成的影响，可能会导致结果出现偏差）。
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/12.png)
+
+2014年年初至今，共发生了2次经济危机类风险事件，分别是2019年的新兴国际货币市场危机和2020年的流动性危机。在经济危机类风险事件发生后的1个月，美元和黄金表现较佳，具备避险属性，而BTC和瑞士法郎的表现不佳，不具备避险属性。
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/8.png)
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/10.png)
+
+2014年年初至今，共发生了2次地缘政治类风险事件，分别是2014年的克里米亚入俄和2020年的美伊矛盾。在地缘政治类风险事件发生的时候，美元表现较佳，具备避险属性，而BTC、黄金和瑞士法郎的表现不佳。
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/5.png)
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/16.png)
+
+在英国脱欧和美国大选等政治类突发事件发生的时候，BTC的市场表现较佳。而对于中美贸易战和新冠病毒疫情等突发事件，BTC的表现不佳。美元在不同突发事件发生时都表现较佳，黄金在除美国大选外的突发事件中表现较佳，瑞士法郎则仅在新冠病毒中表现尚可。
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/6.png)
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/7.png)
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/4.png)
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/2.png)
+
+总体来看，BTC在大多数风险事件中表现不佳，仅在政治类突发事件发生的时候表现较佳。黄金在地缘政治事件和美国大选中表现不佳，其他风险事件下表现都尚可。美元在不同风险事件下都表现较佳，而瑞士法郎在不同风险事件下的表现都欠佳。
+
+![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/2/3.png)
+
+## BTC价格指标分析
+
+我们根据主要的5个BTC价格指标，基于5月17日的数据给出了此后的市场趋势——中短期倾向于看跌BTC，这主要由NVTS指标得出，其他指标没有明显的趋势。但值得注意的是，根据我们对这些指标的背后逻辑的分析，这些价格指标都有其局限性（参见研究报告 第1期）。具体来说：
+
+
+- NVTS是中短期牛熊指标，当前为92.4，NVTS超过90表明BTC价格存在泡沫，低于50则表明BTC价格被严重低估，目前BTC价格存在一定泡沫；
+- MVRV是中短期牛熊指标，当前为1.70，MVRV低于0.8对应历次熊市底部，MVRV高于4对应历次牛市顶部，目前处于中等水平，没有明显的趋势；
+- Mayer Multiple是股市中也很常用的技术指标，上穿1意味着BTC价格已经上穿到200日均线以上，牛市启动，低于1反之，熊市启动。据统计，Mayer Multiple高于2.4（仅占8%）一般意味着投机泡沫开始。近期，Mayer Multiple在突破1之后并未持续上升，上涨趋势不强；
+- Bitcoin Difficulty Ribbon是短期买入指标，目前正在变窄，5月17日，难度带正在变窄，但考虑到减半和丰水期的影响，故本次并不考虑该指标；
+- 资金费率在报告期内并未出现异常水平，因此并未给出任何短期价格信号。
+
+# Disclaimer
+Matrixport provides this analysis as general information only. Matrixport accepts no responsibility for the accuracy or completeness of any information herein contained and Matrixport shall not be responsible for any loss arising from any investment based on any forecast or other information herein contained. The contents of this materials should not be construed as an express or implied promise, guarantee or implication by Matrixport that the forecast information will eventuate. The cryptocurrency market is highly volatile. Buying, selling, holding, or investing in cryptocurrencies or related product carries various risks and is not suitable for all investors. Please seek expert advice, and always ensure that you fully understand these risks before participating in the cryptocurrency market.
+Matrixport is not acting as a financial adviser, consultant or fiduciary to you with respect to any information provided. Any information available here is “general” in nature and for informational purposes only.
+# 免责声明
+Matrixport提供的分析仅作为一般信息进行提供。 Matrixport对此处包含的任何信息的准确性或完整性不承担任何责任，并且Matrixport对基于此处包含的任何预测或其他信息而进行的任何投资所造成的任何损失不承担任何责任。本材料的内容不应被理解为Matrixport对所预测的信息的明示或暗示承诺或保证。加密货币市场高度波动。购买，出售，持有或投资加密货币或相关产品存在各种风险，并不适合所有投资者。请您寻求专家意见，并始终确保您在参与加密货币市场之前完全了解相关风险。
+Matrixport在提供任何信息时并非担任您的财务顾问，咨询师或受托人。此处提供的任何信息本质上都是作为一般信息进行提供，仅供您参考。
+
