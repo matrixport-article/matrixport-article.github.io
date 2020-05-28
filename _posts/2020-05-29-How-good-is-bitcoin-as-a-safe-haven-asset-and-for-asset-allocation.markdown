@@ -1,13 +1,12 @@
+Matrixport Research
 ### Summary
 - From the perspective of asset allocation, allocating a proportion of assets to BTC and ETH helps to construct a lower risk and effective portfolio. This report is based on returns performance analysis of major asset classes from 2016 till date. Based on modern portfolio theory, we attempt to include BTC and ETH assets to the portfolio in our analysis, returning excellent ex-post returns. Generally speaking, investors with lower risk tolerance can allocate a smaller portion of their assets to cryptocurrency, and vice versa.
 
 - From the perspective of safe-haven, performance of BTC in most of the risk events is abysmal, with strong performance in political-related incidents only. Comparatively, amongst traditional safe haven assets (gold, USD, Swiss Franc), USD performs well in the various risk events, making it the undisputed safe-haven asset. With the exception of geopolitical events and US elections, performance of gold is respectable for the other risk events. Performance of Swiss Franc is weak for most of the risk events.
-
-- Based on data on 17 May, medium-short term price indicator suggests higher likelihood of BTC prices dropping. The main indicator used was NVTS.
   
  
     
-
+ 
 ### Is BTC a good choice for asset allocation?
 Recently, Paul Tudor Jones (a famous wall-street fund manager) confirmed that he has allocated over 1% of his assets in Bitcoin. The key question remains, is BTC a good choice for asset allocation? If yes, what is the approriate percentage allocation to BTC?
 
@@ -85,22 +84,6 @@ For political events such as Brexit and US election, market performance of BTC h
 In summary, the performance of BTC in major risk events has been abysmal, only in political—related incidents does it perform well. Performance of gold is lackluster for geopolitical events and US election, while market performance for other risk incidents is decent. For the various risk events, USD performs well while performance of Swiss Franc remains poor.
 
 ![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/3/16.png)
-  
-  
-  
-  
-### Analysis of BTC price indicator
-Based on the 5 key BTC price indicators and data on 17 May, we derived the following analysis for the future market trend – Short to medium term indicators indicate that BTC prices will likely drop. The call is mainly based on NVTS indicator as the other indicators do not display any clear trends. However, an important note is, based on the previous analysis we conducted on the underlying logic, these price indicators have their own set of limitations (please refer to 1st edition of the research report). Overall:
-
-- NVTS is a short-medium term bull/bear indicator. The current value is 92.4, once above 90, this indicates that BTC prices is currently in a bubble. Below 50, NVTS indicates that BTC price is heavily underestimated. At present, BTC price is in a bubble;
-
-- MVRV is a short-medium term bull/bear indicator. The current value is 1.70, a MVRV value below 0.80 corresponded to the various bottoms of the bear market, while a value of 4 marked the various peaks of the bull market. At present, MVRV is at a moderate level, with no clear trend;
-
-- Mayer Multiple is a common technical indicator used in traditional stock market, above 1 indicates that BTC prices have broken past the 200 days moving average, signifying the start of a bull market. Conversely, a value below 1 indicates the start of a bear market. Based on data, once Mayer Multiple is above 2.4 (8% of the time), this typically indicates the start of an investment bubble. Recently, Mayer multiple has not continued to rise after breaking through 1, signifying a lack of strength in the upwards trend;
-
-- Bitcoin Difficulty Ribbon is a short-medium term bull/bear indicator and is currently compressing. On 17 May, the difficulty is currently compressing, however considering impact of the recent halving and wet season (resulting lower electricity cost in China due to cheap hydroelectric sources), it was not included as part of the consideration;
-
-- During this time period, there has been no abnormality in funding rate, hence there is no short term price indication.
   
   
   
