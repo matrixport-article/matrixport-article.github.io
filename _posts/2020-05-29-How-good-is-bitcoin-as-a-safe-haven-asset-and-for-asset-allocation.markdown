@@ -1,8 +1,3 @@
-# Matrixport Market Research Report
- 
- 
-  
- 
 ### Summary
 - From the perspective of asset allocation, allocating a proportion of assets to BTC and ETH helps to construct a lower risk and effective portfolio. This report is based on returns performance analysis of major asset classes from 2016 till date. Based on modern portfolio theory, we attempt to include BTC and ETH assets to the portfolio in our analysis, returning excellent ex-post returns. Generally speaking, investors with lower risk tolerance can allocate a smaller portion of their assets to cryptocurrency, and vice versa.
 
