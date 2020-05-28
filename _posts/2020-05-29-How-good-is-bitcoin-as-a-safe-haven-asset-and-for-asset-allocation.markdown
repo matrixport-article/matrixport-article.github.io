@@ -1,14 +1,20 @@
 # Matrixport Market Research Report
 BTC - Asset allocation and safe-haven characteristics (Contains market analysis of BTC price trends) ，20 May 2020 Matrixport Research
 
-### Summary
+
+
+
+## Summary
 - From the perspective of asset allocation, allocating a proportion of assets to BTC and ETH helps to construct a lower risk and effective portfolio. This report is based on returns performance analysis of major asset classes from 2016 till date. Based on modern portfolio theory, we attempt to include BTC and ETH assets to the portfolio in our analysis, returning excellent ex-post returns. Generally speaking, investors with lower risk tolerance can allocate a smaller portion of their assets to cryptocurrency, and vice versa.
 
 - From the perspective of safe-haven, performance of BTC in most of the risk events is abysmal, with strong performance in political-related incidents only. Comparatively, amongst traditional safe haven assets (gold, USD, Swiss Franc), USD performs well in the various risk events, making it the undisputed safe-haven asset. With the exception of geopolitical events and US elections, performance of gold is respectable for the other risk events. Performance of Swiss Franc is weak for most of the risk events.
 
 - Based on data on 17 May, medium-short term price indicator suggests higher likelihood of BTC prices dropping. The main indicator used was NVTS.
 
-### Is BTC a good choice for asset allocation?
+
+
+
+## Is BTC a good choice for asset allocation?
 Recently, Paul Tudor Jones (a famous wall-street fund manager) confirmed that he has allocated over 1% of his assets in Bitcoin. The key question remains, is BTC a good choice for asset allocation? If yes, what is the approriate percentage allocation to BTC?
 
 Since 2016 till date, BTC and ETH’s market performances have outshined other asset classes, with BTC increasing c.20x fold and ETH increasing c.200x. These return profiles have been the best in the market, with the next closest being gold, at 71% return. Compared to other asset classes, BTC and ETH have exhbited much higher volatility, indicating the underlying risks are much higher. Therefore, it is impossible to judge BTC suitability for asset allocation based on the historical return and volatility profile.
@@ -47,7 +53,10 @@ For investors with different risk appeitite, the ratio of asset allocation to cr
 
 ![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/3/6.png)
 
-### Is BTC a good safe-haven asset?
+
+
+
+## Is BTC a good safe-haven asset?
 
 As illustrated above, many investors have traditionally viewed BTC as a safe-haven asset due to its weak correlation with major asset classes. However, due to the high volatility and lock-stepped drop experienced by BTC along with other major assets on 12 March, many investors are starting to doubt the safe-haven claim. Therefore, is BTC really a good safe-haven asset to own? Or more specifically, is BTC a good safe-haven asset for some riskier situations?
 
@@ -83,7 +92,10 @@ In summary, the performance of BTC in major risk events has been abysmal, only i
 
 ![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/3/16.png)
 
-### Analysis of BTC price indicator
+
+
+
+## Analysis of BTC price indicator
 Based on the 5 key BTC price indicators and data on 17 May, we derived the following analysis for the future market trend – Short to medium term indicators indicate that BTC prices will likely drop. The call is mainly based on NVTS indicator as the other indicators do not display any clear trends. However, an important note is, based on the previous analysis we conducted on the underlying logic, these price indicators have their own set of limitations (please refer to 1st edition of the research report). Overall:
 
 - NVTS is a short-medium term bull/bear indicator. The current value is 92.4, once above 90, this indicates that BTC prices is currently in a bubble. Below 50, NVTS indicates that BTC price is heavily underestimated. At present, BTC price is in a bubble;
@@ -96,7 +108,10 @@ Based on the 5 key BTC price indicators and data on 17 May, we derived the follo
 
 - During this time period, there has been no abnormality in funding rate, hence there is no short term price indication.
 
-### Disclaimer
+
+
+
+## Disclaimer
 
 Matrixport provides this analysis as general information only. Matrixport accepts no responsibility for the accuracy or completeness of any information herein contained and Matrixport shall not be responsible for any loss arising from any investment based on any forecast or other information herein contained. The contents of this materials should not be construed as an express or implied promise, guarantee or implication by Matrixport that the forecast information will eventuate. The cryptocurrency market is highly volatile. Buying, selling, holding, or investing in cryptocurrencies or related product carries various risks and is not suitable for all investors. Please seek expert advice, and always ensure that you fully understand these risks before participating in the cryptocurrency market.
 Matrixport is not acting as a financial adviser, consultant or fiduciary to you with respect to any information provided. Any information available here is “general” in nature and for informational purposes only.
