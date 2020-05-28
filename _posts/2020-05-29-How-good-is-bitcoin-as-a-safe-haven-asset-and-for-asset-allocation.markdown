@@ -1,5 +1,4 @@
 # Matrixport Market Research Report
-BTC - Asset allocation and safe-haven characteristics (Contains market analysis of BTC price trends) ，20 May 2020 Matrixport Research
  
  
   
