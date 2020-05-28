@@ -1,4 +1,4 @@
-# Matrixport market research report 1st edition
+# Matrixport Market Research Report 1st Edition
 Matrixport Research
 
 ### Summary
