@@ -29,8 +29,8 @@ This feature will be enabled using zero-knowledge proofs on ETH sidechains
 
 Support will be rolled out for major DeFi platforms, including Kyber Network, 0x, Uniswap and Compound
 
-Sources: Prysmatic Labs Medium, Aztec Medium, Decrypt, analyzed by Matrixport
-Note (similarly hereinafter)：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30
+*Sources: Prysmatic Labs Medium, Aztec Medium, Decrypt, analyzed by Matrixport
+Note (similarly hereinafter)：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30*
 
 - BCH published Network Upgrade Specification on May 15, 2020
 
