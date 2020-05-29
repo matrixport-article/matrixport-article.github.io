@@ -82,11 +82,54 @@ Three key components: new consensus mechanisms, Daedalus wallet updates, and Adr
 Tether integrated as the first stablecoin on Algorand
 
 ### Blockchain Adoption in Traditional Industries
-
-• Financial Industry
+- Financial Industry
 DIFC and Mashreq plan to offer blockchain based KYC solution, to support licensed businesses and corporates opening digital bank accounts instantly; 
-National Bank of Fujairah (NBF), UAE partners Ripple to service huge Indian customers, to ensure secure and real-time payments;
-o Users of the Starbucks mobile app are now being presented with Bakkt Cash as a payment option; Beta test;
-o SMBC and Layer X4 established a company to develop next-generation asset management businesses using blockchain technology; Consortium chain; Partnership achieved;
-o Thailand‘s Siam Commercial Bank (SCB) is designing a stablecoin (STB, Stable Thai Baht) that is pegged to the Thai baht; STB will be based on Ethereum; Ethereum; Plan announced;
 
+National Bank of Fujairah (NBF), UAE partners Ripple to service huge Indian customers, to ensure secure and real-time payments;
+
+Users of the Starbucks mobile app are now being presented with Bakkt Cash as a payment option;
+
+SMBC and Layer X4 established a company to develop next-generation asset management businesses using blockchain technology; 
+
+Thailand‘s Siam Commercial Bank (SCB) is designing a stablecoin (STB, Stable Thai Baht) that is pegged to the Thai baht; STB will be based on Ethereum; 
+
+- Supply chain
+Nike, CK and Tommy have been trialing blockchain and RFID tags to track products on a global supply
+chain. The aim is to provide a secure way to share data, while retaining ownership of it; 
+
+*Sources: gulfnews, NewsLogical, Decrypt, coindesk, Blockspaper, analyzed by Matrixport*
+
+### Security Incidents
+- Exchanges
+
+FCoin had difficulty in redemption, with funding gap between 7000-13000 BTC
+
+Singapore exchange Coinhako restricted user withdrawals after being attacked
+
+A former employee from Digitex stole private information of more than 8,000 users
+
+Exchanges such as OKEx and Bitfinex shut down on 28 Feb by DDOS attacks
+
+- DeFi
+
+BZX protocol was attacked by liquidity arbitrage of combinable assets
+
+Curve had an abnormal transaction, and the attacker conducted a clamp attack on the two fund pools, curve.fi and y.curve.fi
+
+*Sources: Beosin-Eagle Eye, analyzed by Matrixport 
+Note: Many of these incidents happened in Jan and Feb*
+
+- Protocol
+
+Omni Core team released protocol update to fix doubled transaction bug
+
+- Other
+
+An operation and maintenance employee in Baidu illegally controlled 155 servers to "mine crypto assets": sentenced to three years in prison
+
+*Sources: The block, Block Beats, analyzed by Matrixport*
+
+***Disclaimer***
+
+*Matrixport provides this analysis as general information only. Matrixport accepts no responsibility for the accuracy or completeness of any information herein contained and Matrixport shall not be responsible for any loss arising from any investment based on any forecast or other information herein contained. The contents of this materials should not be construed as an express or implied promise, guarantee or implication by Matrixport that the forecast information will eventuate. The cryptocurrency market is highly volatile. Buying, selling, holding, or investing in cryptocurrencies or related product carries various risks and is not suitable for all investors. Please seek expert advice, and always ensure that you fully understand these risks before participating in the cryptocurrency market.
+Matrixport is not acting as a financial adviser, consultant or fiduciary to you with respect to any information provided. Any information available here is “general” in nature and for informational purposes only.*
