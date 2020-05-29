@@ -1,5 +1,7 @@
 # Matrixport View_Regulation #1
 
+# Moving towards a better regulated crypto community
+
 ### Overview
 
 In March, we have seen regulators from major economies across the world making decisions, implementing regulations, and proposing ideas. These changes demonstrate that the regulators are not only developing better acceptance and understanding of this new bourgeoning new industry, but are also trying to bring it into a better regulated playground. While new regulations will undoubtedly increase the cost of running businesses and raise concerns for those who value privacy, the higher degree of transparency mandated could also attract institutions from the traditional markets and help the industry’s healthy growth in the longer term.
