@@ -1,4 +1,4 @@
-# Matrixport View_Regulation #2
+# Matrixport View_Regulation #3
 
 Although Corona virus still occupied the headlines of most mainstream Press, the halving of Bitcoin also became an important topic in most of the major economic news outlets during the month of May. One could hardly imagine this when the halving happened last time in 2016. More and more attention has been brought to the crypto currencies. From a regulatory and policy maker’s perspective, governments around the world are catching up. In China, the digital RMB is already in a testing phase. Political representatives were given text/education books on the topics of blockchain and cryptocurrency. This sends a strong signal that the Chinese government is ready to adopt massively this disruptive technology and its derivative products. And it is not the only one……
 
