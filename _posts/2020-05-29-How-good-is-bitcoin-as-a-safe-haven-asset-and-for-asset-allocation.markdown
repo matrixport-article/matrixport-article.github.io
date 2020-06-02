@@ -1,5 +1,3 @@
-![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/3/18.png)
-
 # Matrixport View_Market #1
 Matrixport Research
 
