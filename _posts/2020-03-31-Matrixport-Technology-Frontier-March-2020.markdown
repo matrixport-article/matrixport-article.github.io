@@ -149,7 +149,7 @@ Note: Many of these incidents happened in Jan and Feb*
 
 - An operation and maintenance employee in Baidu illegally controlled 155 servers to "mine crypto assets": sentenced to three years in prison(*)
 
-*Importance level (similarly hereinafter): low *; medium **; high ***;*
+*Importance level (similarly hereinafter): low *; medium **; high ****
 
 *Note (similarly hereinafter):Top 10 refers to the marketcap rank indicated in coinmarketcap by 2020/3/31
 Many of these incidents happened in Jan and Feb*
