@@ -9,84 +9,93 @@ Matrixport Research
 - Security risk is still the Sword of Damocles to the whole blockchain industry, especially to DeFi world. This month, we witnessed more security issues emerging: reentrancy attacks against Lendf.Me and Uniswap has resulted in $25 million loss; false information and social engineering attack via Telegram has resulted in 834 ETH loss.
 
 ### Public Blockchain:  Top 10
-- Prysmatic Labs published Topaz test network for ETH2.0 
+**Prysmatic Labs published Topaz test network for ETH2.0**
 
-Topaz is the first testnet with full ETH 2.0 Phase 0 features
+*Testnet Launch****
 
-Topaz is currently accepting genesis deposits, with a minimum deposit of 32 ETH for validators to participate
+- Topaz is the first testnet with full ETH 2.0 Phase 0 features
 
-- Aztec released first ZK² rollup code 
+- Topaz is currently accepting genesis deposits, with a minimum deposit of 32 ETH for validators to participate
+
+**Aztec released first ZK² rollup code**
+
+*Proof of Concept Done***
+
 *ETH ecosystem*
 
-First implementation of ZK² rollup, a universal recursion for pairing-based SNARKs over a single curve
+- First implementation of ZK² rollup, a universal recursion for pairing-based SNARKs over a single curve
 
-Able to run industry-standard hashes — no need for SNARK-friendly hashes
+- Able to run industry-standard hashes — no need for SNARK-friendly hashes
 
-- Incognito plans to enable anonymous transactions on major DeFi platforms
+**Incognito plans to enable anonymous transactions on major DeFi platforms**
+
+*Official Announcement***
+
 *ETH ecosystem*
 
 This feature will be enabled using zero-knowledge proofs on ETH sidechains
 
 Support will be rolled out for major DeFi platforms, including Kyber Network, 0x, Uniswap and Compound
 
-*Sources: Prysmatic Labs Medium, Aztec Medium, Decrypt, analyzed by Matrixport
-Note (similarly hereinafter)：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30*
+**BCH published Network Upgrade Specification on May 15, 2020**
 
-- BCH published Network Upgrade Specification on May 15, 2020
+*Upgrade Specification***
 
 The changes to the consensus rules in this upgrade include:
 
-Replace BCH's SigOps counting and limiting system with the new SigChecks system, which can mitigate the mismatch between the actual CPU work needed and the transaction costs calculated via SigOps 
+- Replace BCH's SigOps counting and limiting system with the new SigChecks system, which can mitigate the mismatch between the actual CPU work needed and the transaction costs calculated via SigOps 
 
-Add a new opcode named OP_REVERSEBYTES to the script system
+- Add a new opcode named OP_REVERSEBYTES to the script system
 
-- Xpring Wants to Make XRP Transactions Private
+**Xpring Wants to Make XRP Transactions Private**
 
-Ripple's core developer team Xpring proposes to add an opt-in privacy feature to the XRP Ledger
+*Tech Proposal**
 
-XRP can be made anonymous with the help of “blinded tags”, obfuscating the source and destination tags from observers (with the exception of the originator and the source of a specific transaction)
+- Ripple's core developer team Xpring proposes to add an opt-in privacy feature to the XRP Ledger
 
-*Sources: Bitcoincash.org, U.today, analyzed by Matrixport*
+- XRP can be made anonymous with the help of “blinded tags”, obfuscating the source and destination tags from observers (with the exception of the originator and the source of a specific transaction)
 
 ### Public Blockchain:  Others
 
-- Polkadot  published its 3rd version of Lightpaper
+**Polkadot  published its 3rd version of Lightpaper**
 
-Polkadot’s design offers several distinct advantages over existing and legacy networks, including heterogeneous sharding, scalability, upgradeability, transparent governance and cross-chain composability
+- Polkadot’s design offers several distinct advantages over existing and legacy networks, including heterogeneous sharding, scalability, upgradeability, transparent governance and cross-chain composability （Lightpaper Revise **）
 
-- ETC TestNets Successfully Activate Phoenix
+**ETC TestNets Successfully Activate Phoenix**
 
-Mordor and Kotti, 2 of 2 TestNets for ETC, have successfully activated the Phoenix upgrade on Mar 9th and Apr 15th respectively
+- Mordor and Kotti, 2 of 2 TestNets for ETC, have successfully activated the Phoenix upgrade on Mar 9th and Apr 15th respectively
 
-ETC Core is preparing for Phonenix’s MainNet activation
-
-*Sources: Polkadot Lightpaper, ETC Medium,analyzed by Matrixport*
+- ETC Core is preparing for Phonenix’s MainNet activation （Testnet Upgrade**）
 
 ### Blockchain Adoption in Traditional Industries 
 
-- Financial Industry
+**Financial Industry**
 
-Hong Kong-based Hex Trust is partnering with the enterprise blockchain company R3 to enable its clients to issue collateral tokens for derivatives on Corda; R3’s Corda; Partnership achieved 
+- Hong Kong-based Hex Trust is partnering with the enterprise blockchain company R3 to enable its clients to issue collateral tokens for derivatives on Corda; (R3’s Corda; Partnership achieved*)
 
-The second iteration of Facebook’s Libra project has been announced; changes include: announcement of single-currency stablecoin, introduction of a capital buffer for crisis situations, commitment to a permissioned blockchain system (Libra platform), and implementation of an in-depth compliance strategy in collaboration with regulators  Libra; Iteration announcement
+- The second iteration of Facebook’s Libra project has been announced; changes include: announcement of single-currency stablecoin, introduction of a capital buffer for crisis situations, commitment to a permissioned blockchain system (Libra platform), and implementation of an in-depth compliance strategy in collaboration with regulators (Libra; Iteration announcement***)
 
-Rumours are circulating on Chinese social media that DCEP has already undergone internal closed beta testing by the Agricultural Bank of China, the DCEP wallet will support several major functions including: digital asset exchange, wallet management, ability to look up past transactions, payment via QR code, remittances and mobile payments; DCEP; Internal test 
+- Rumours are circulating on Chinese social media that DCEP has already undergone internal closed beta testing by the Agricultural Bank of China, the DCEP wallet will support several major functions including: digital asset exchange, wallet management, ability to look up past transactions, payment via QR code, remittances and mobile payments; (DCEP; Internal test**) 
 
-Blockchain developer IOV Labs created a proof-of-concept that aims to speed fiat currency settlement in Argentina, with the central bank and major commercial banks including Santander and BBVA actively testing it. The solution is based on permissioned blockchain and RSK Smart Contract Network. RSK; Proof-of-concept
-
-*Sources: Coindesk, Libra org, Boxmining, analyzed by Matrixport*
+- Blockchain developer IOV Labs created a proof-of-concept that aims to speed fiat currency settlement in Argentina, with the central bank and major commercial banks including Santander and BBVA actively testing it. The solution is based on permissioned blockchain and RSK Smart Contract Network. (RSK; Proof-of-concept**)
 
 ### Security Incidents
 
-- DeFi
-About $25 million worth of cryptocurrency was stolen from Uniswap and Lendf.Me on Apr 18th/19th. The attackers exploited the DeFi platforms’ oversight in handling ERC777 related transactions, which one of the root causes is ERC20 compatible interface (“transferFrom”) provided by ERC777. This seemingly similar interface can trigger some additional functions in ERC777, one of which was exploited by the attackers to perform reentrancy attacks against the DeFi platforms.
+**DeFi**
 
-A group of miners that controlled 70% hash rate of Factom manipulated the price of a Japanese Yen-pegged stablecoin dubbed pJPY on PegNet, a Factom-based decentralized exchange. By submitting false data, they artificially inflate a wallet balance from $11 to $6.7 million. However, the group was unsuccessful in their attempt to liquidate the funds, and no financial loss was suffered.
+- About $25 million worth of cryptocurrency was stolen from Uniswap and Lendf.Me on Apr 18th/19th. The attackers exploited the DeFi platforms’ oversight in handling ERC777 related transactions, which one of the root causes is ERC20 compatible interface (“transferFrom”) provided by ERC777. This seemingly similar interface can trigger some additional functions in ERC777, one of which was exploited by the attackers to perform reentrancy attacks against the DeFi platforms.(***)
 
-- Others
-Telegram witnessed a new arbitrage scam where three victims lost a total of 834 ETH. The scammer claimed to provide conversion between ETH and HT at the ratio of 1:50-100, swindling the victims to transfer ETH to their accounts with no HT given back.
+- A group of miners that controlled 70% hash rate of Factom manipulated the price of a Japanese Yen-pegged stablecoin dubbed pJPY on PegNet, a Factom-based decentralized exchange. By submitting false data, they artificially inflate a wallet balance from $11 to $6.7 million. However, the group was unsuccessful in their attempt to liquidate the funds, and no financial loss was suffered.(**)
 
-*Sources: Peckshield Medium, Cryptopotato, Coinhunter, analyzed by Matrixport*
+**Others**
+
+- Telegram witnessed a new arbitrage scam where three victims lost a total of 834 ETH. The scammer claimed to provide conversion between ETH and HT at the ratio of 1:50-100, swindling the victims to transfer ETH to their accounts with no HT given back.(*)
+
+*Note (similarly hereinafter)：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30*
+
+*Importance level (similarly hereinafter): low *; medium **; high ***
+
+*Sources: Prysmatic Labs Medium, Aztec Medium, Decrypt, Peckshield Medium, Bitcoincash.org, U.today, Polkadot Lightpaper, ETC Medium, Coindesk, Libra org, Boxmining, Cryptopotato, Coinhunter, analyzed by Matrixport*
 
 ***Disclaimer***
 
