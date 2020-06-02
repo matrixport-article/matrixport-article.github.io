@@ -62,8 +62,6 @@ Matrixport Research
 
 - Tether is using the Simple Ledger Protocol (SLP) as the technical means to launch USDT on BCH
 
-*Sources: Cryptobriefing, Medium, analyzed by Matrixport*
-
 ### Public Blockchain: Others
 **Qtum developers worked at building offline staking**
 
@@ -90,8 +88,6 @@ Matrixport Research
 - IBC: Inter-Blockchain Communication
 
 - Including: real proofs, end-to-end handshakes and working token transfers
-
-*Source: Qtum-Medium, Ontology-Medium, cosmos-twitter, analyzed by Matrixport*
 
 **Byron Reboot: Marking A New Era For Cardano**
 
@@ -126,8 +122,6 @@ Tether integrated as the first stablecoin on Algorandï¼ˆ Official Announcement*ï
 **Supply chain**
 - Nike, CK and Tommy have been trialing blockchain and RFID tags to track products on a global supply
 chain. The aim is to provide a secure way to share data, while retaining ownership of it; (Hyperledger; Under test;*)
-
-*Sources: gulfnews, NewsLogical, Decrypt, coindesk, Blockspaper, analyzed by Matrixport*
 
 ### Security Incidents
 **Exchanges**
