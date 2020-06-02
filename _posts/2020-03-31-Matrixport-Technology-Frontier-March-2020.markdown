@@ -152,7 +152,7 @@ Note: Many of these incidents happened in Jan and Feb*
 *Note (similarly hereinafter):Top 10 refers to the marketcap rank indicated in coinmarketcap by 2020/3/31
 Many of these incidents happened in Jan and Feb*
 
-*Importance level (similarly hereinafter): low *; medium **; high ***;*
+*Importance level (similarly hereinafter): low *; medium **; high ***
 
 *Sources: AMBCrypto, Toshitimes, Coindesk, Cryptobriefing, Medium, Qtum-Medium, Ontology-Medium, cosmos-twitter, Zycrypto, Algorand-twitter,gulfnews, NewsLogical, Decrypt, Blockspaper,Crypto watch, Beosin-Eagle Eye, The block, Block Beats, analyzed by Matrixport*
 
