@@ -26,6 +26,8 @@ Matrixport Research
 
 **Vitalik’s vision about Ethereum**
 
+*Vision****
+
 - Expect ETH 2.0 to launch this summer
 
 - Expect ZK-rollups and Looprings to make huge strides in improving the efficiency of their proofs 
@@ -34,10 +36,9 @@ Matrixport Research
 
 - Loopring: an open protocol for scalable non-custodial exchanges on using ZK-rollup
 
-*Sources: AMBCrypto, Toshitimes, Coindesk, analyzed by Matrixport
-Note (similarly hereinafter):Top 10 refers to the marketcap rank indicated in coinmarketcap by 2020/3/31*
-
 **ETH 2.0 Audit Complete, Minor Changes Proposed**
+
+*Official Announcement****
 
 - Least Authority has just concluded the preliminary audit of ETH 2.0 
 
@@ -47,6 +48,8 @@ Note (similarly hereinafter):Top 10 refers to the marketcap rank indicated in co
 
 **Aztec: Efficient Privacy with ZK2 Rollup in ETH**
 
+*Development Plan***
+
 - Aztec: a private transaction network on Ethereum, launched on 2020/1/31, with next steps toward ZK2 Rollup (features below)
 
 - Combined ZK Rollup (scale) and ZK-SNARKs (privacy) 
@@ -55,22 +58,33 @@ Note (similarly hereinafter):Top 10 refers to the marketcap rank indicated in co
 
 **USDT is now live on BCH using SLP**
 
+*Implementation****
+
 - Tether is using the Simple Ledger Protocol (SLP) as the technical means to launch USDT on BCH
 
 *Sources: Cryptobriefing, Medium, analyzed by Matrixport*
 
 ### Public Blockchain: Others
 **Qtum developers worked at building offline staking**
+
+*Development Plan***
+
 *# PoS; smart contract; account-UTXO mixed*
 
 - The key to achieve offline staking is UTXO, which means they need to follow a strict splitting and recombining algorithm（ Development Plan**）
 
 **Ontology launched P2P Claim**
+
+*Implementation***
+
 *# PoS; smart contract; account*
 
 - Enables people to people, things to things, affairs to affairs to authorize and authenticate each other（Implementation**）
 
 **Cosmos published IBC demo**
+
+*Demo****
+
 *# BPoS; cross chain*
 
 - IBC: Inter-Blockchain Communication
@@ -80,6 +94,9 @@ Note (similarly hereinafter):Top 10 refers to the marketcap rank indicated in co
 *Source: Qtum-Medium, Ontology-Medium, cosmos-twitter, analyzed by Matrixport*
 
 **Byron Reboot: Marking A New Era For Cardano**
+
+*Development Plan***
+
 *# PoS; smart contract*
 
 - Will begin rolling out the Byron Reboot thanks to the accelerated development process
@@ -87,56 +104,64 @@ Note (similarly hereinafter):Top 10 refers to the marketcap rank indicated in co
 - Three key components: new consensus mechanisms, Daedalus wallet updates, and Adrestia （Development Plan**）
 
 **Algorand integrated Tether**
+
+*Official Announcement**
+
 *# PPoS*
 
 Tether integrated as the first stablecoin on Algorand（ Official Announcement*）
 
 ### Blockchain Adoption in Traditional Industries
 **Financial Industry**
-- DIFC and Mashreq plan to offer blockchain based KYC solution, to support licensed businesses and corporates opening digital bank accounts instantly; 
+- DIFC and Mashreq plan to offer blockchain based KYC solution, to support licensed businesses and corporates opening digital bank accounts instantly; （Consortium chain; Partnership achieved;*）
 
-- National Bank of Fujairah (NBF), UAE partners Ripple to service huge Indian customers, to ensure secure and real-time payments;
+- National Bank of Fujairah (NBF), UAE partners Ripple to service huge Indian customers, to ensure secure and real-time payments;（Ripple; Partnership achieved;*)
 
-- Users of the Starbucks mobile app are now being presented with Bakkt Cash as a payment option;
+- Users of the Starbucks mobile app are now being presented with Bakkt Cash as a payment option;(Beta test;*)
 
-- SMBC and Layer X4 established a company to develop next-generation asset management businesses using blockchain technology; 
+- SMBC and Layer X4 established a company to develop next-generation asset management businesses using blockchain technology;(Consortium chain; Partnership achieved;*) 
 
-- Thailand‘s Siam Commercial Bank (SCB) is designing a stablecoin (STB, Stable Thai Baht) that is pegged to the Thai baht; STB will be based on Ethereum; 
+- Thailand‘s Siam Commercial Bank (SCB) is designing a stablecoin (STB, Stable Thai Baht) that is pegged to the Thai baht; STB will be based on Ethereum; ( Ethereum; Plan announced;**)
 
 **Supply chain**
 - Nike, CK and Tommy have been trialing blockchain and RFID tags to track products on a global supply
-chain. The aim is to provide a secure way to share data, while retaining ownership of it; 
+chain. The aim is to provide a secure way to share data, while retaining ownership of it; (Hyperledger; Under test;*)
 
 *Sources: gulfnews, NewsLogical, Decrypt, coindesk, Blockspaper, analyzed by Matrixport*
 
 ### Security Incidents
 **Exchanges**
 
-- FCoin had difficulty in redemption, with funding gap between 7000-13000 BTC
+- FCoin had difficulty in redemption, with funding gap between 7000-13000 BTC(***)
 
-- Singapore exchange Coinhako restricted user withdrawals after being attacked
+- Singapore exchange Coinhako restricted user withdrawals after being attacked(**)
 
-- A former employee from Digitex stole private information of more than 8,000 users
+- A former employee from Digitex stole private information of more than 8,000 users(**)
 
-- Exchanges such as OKEx and Bitfinex shut down on 28 Feb by DDOS attacks
+- Exchanges such as OKEx and Bitfinex shut down on 28 Feb by DDOS attacks(**)
 
 **DeFi**
 
-- BZX protocol was attacked by liquidity arbitrage of combinable assets
+- BZX protocol was attacked by liquidity arbitrage of combinable assets(***)
 
-- Curve had an abnormal transaction, and the attacker conducted a clamp attack on the two fund pools, curve.fi and y.curve.fi
+- Curve had an abnormal transaction, and the attacker conducted a clamp attack on the two fund pools, curve.fi and y.curve.fi(**)
 
 *Sources: Beosin-Eagle Eye, analyzed by Matrixport 
 Note: Many of these incidents happened in Jan and Feb*
 
 **Protocol**
-- Omni Core team released protocol update to fix doubled transaction bug
+- Omni Core team released protocol update to fix doubled transaction bug(**)
 
 **Other**
 
-- An operation and maintenance employee in Baidu illegally controlled 155 servers to "mine crypto assets": sentenced to three years in prison
+- An operation and maintenance employee in Baidu illegally controlled 155 servers to "mine crypto assets": sentenced to three years in prison(*)
 
-*Sources: The block, Block Beats, analyzed by Matrixport*
+*Importance level (similarly hereinafter): low *; medium **; high ***;
+
+*Note (similarly hereinafter):Top 10 refers to the marketcap rank indicated in coinmarketcap by 2020/3/31
+Many of these incidents happened in Jan and Feb*
+
+*Sources: AMBCrypto, Toshitimes, Coindesk, Cryptobriefing, Medium, Qtum-Medium, Ontology-Medium, cosmos-twitter, Zycrypto, Algorand-twitter,gulfnews, NewsLogical, Decrypt, Blockspaper,Crypto watch, Beosin-Eagle Eye, The block, Block Beats, analyzed by Matrixport*
 
 ***Disclaimer***
 
