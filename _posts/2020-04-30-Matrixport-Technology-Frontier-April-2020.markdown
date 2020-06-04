@@ -19,7 +19,7 @@ Matrixport Research
 
 **Aztec released first ZK² rollup code**
 
-*ETH ecosystem；Proof of Concept Done**；
+*ETH ecosystem；Proof of Concept Done***；
 
 - First implementation of ZK² rollup, a universal recursion for pairing-based SNARKs over a single curve
 
@@ -27,7 +27,7 @@ Matrixport Research
 
 **Incognito plans to enable anonymous transactions on major DeFi platforms**
 
-*ETH ecosystem；Official Announcement**；
+*ETH ecosystem；Official Announcement***；
 
 - This feature will be enabled using zero-knowledge proofs on ETH sidechains
 
