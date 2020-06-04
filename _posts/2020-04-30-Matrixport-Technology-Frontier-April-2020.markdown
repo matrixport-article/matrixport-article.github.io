@@ -19,7 +19,7 @@ Matrixport Research
 
 **Aztec released first ZK² rollup code**
 
-*Proof of Concept Done**；ETH ecosystem*
+*ETH ecosystem；Proof of Concept Done**；
 
 - First implementation of ZK² rollup, a universal recursion for pairing-based SNARKs over a single curve
 
@@ -27,7 +27,7 @@ Matrixport Research
 
 **Incognito plans to enable anonymous transactions on major DeFi platforms**
 
-*Official Announcement**；ETH ecosystem*
+*ETH ecosystem；Official Announcement**；
 
 - This feature will be enabled using zero-knowledge proofs on ETH sidechains
 
@@ -93,7 +93,7 @@ The changes to the consensus rules in this upgrade include:
 
 *Note：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30*
 
-*Importance level: low *; medium **; high ***
+*Importance level: low-no stars; medium *; high **
 
 *Sources: Prysmatic Labs Medium, Aztec Medium, Decrypt, Peckshield Medium, Bitcoincash.org, U.today, Polkadot Lightpaper, ETC Medium, Coindesk, Libra org, Boxmining, Cryptopotato, Coinhunter, analyzed by Matrixport*
 
