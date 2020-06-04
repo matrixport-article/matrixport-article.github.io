@@ -93,9 +93,8 @@ The changes to the consensus rules in this upgrade include:
 
 *Note：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30*
 
-*Importance level: low-no stars; medium **; high ****
-
-*Sources: Prysmatic Labs Medium, Aztec Medium, Decrypt, Peckshield Medium, Bitcoincash.org, U.today, Polkadot Lightpaper, ETC Medium, Coindesk, Libra org, Boxmining, Cryptopotato, Coinhunter, analyzed by Matrixport*
+*Importance level: low-no stars; medium **; high ***
+Sources: Prysmatic Labs Medium, Aztec Medium, Decrypt, Peckshield Medium, Bitcoincash.org, U.today, Polkadot Lightpaper, ETC Medium, Coindesk, Libra org, Boxmining, Cryptopotato, Coinhunter, analyzed by Matrixport*
 
 ***Disclaimer***
 
