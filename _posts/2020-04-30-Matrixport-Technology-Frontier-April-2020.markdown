@@ -19,9 +19,7 @@ Matrixport Research
 
 **Aztec released first ZK² rollup code**
 
-*Proof of Concept Done***
-
-*ETH ecosystem*
+*Proof of Concept Done**；ETH ecosystem*
 
 - First implementation of ZK² rollup, a universal recursion for pairing-based SNARKs over a single curve
 
@@ -29,13 +27,11 @@ Matrixport Research
 
 **Incognito plans to enable anonymous transactions on major DeFi platforms**
 
-*Official Announcement***
+*Official Announcement**；ETH ecosystem*
 
-*ETH ecosystem*
+- This feature will be enabled using zero-knowledge proofs on ETH sidechains
 
-This feature will be enabled using zero-knowledge proofs on ETH sidechains
-
-Support will be rolled out for major DeFi platforms, including Kyber Network, 0x, Uniswap and Compound
+- Support will be rolled out for major DeFi platforms, including Kyber Network, 0x, Uniswap and Compound
 
 **BCH published Network Upgrade Specification on May 15, 2020**
 
@@ -59,13 +55,17 @@ The changes to the consensus rules in this upgrade include:
 
 **Polkadot  published its 3rd version of Lightpaper**
 
-- Polkadot’s design offers several distinct advantages over existing and legacy networks, including heterogeneous sharding, scalability, upgradeability, transparent governance and cross-chain composability （Lightpaper Revise **）
+- Polkadot’s design offers several distinct advantages over existing and legacy networks, including heterogeneous sharding, scalability, upgradeability, transparent governance and cross-chain composability
+
+*Lightpaper Revise***
 
 **ETC TestNets Successfully Activate Phoenix**
 
 - Mordor and Kotti, 2 of 2 TestNets for ETC, have successfully activated the Phoenix upgrade on Mar 9th and Apr 15th respectively
 
-- ETC Core is preparing for Phonenix’s MainNet activation （Testnet Upgrade**）
+- ETC Core is preparing for Phonenix’s MainNet activation 
+
+*Testnet Upgrade***
 
 ### Blockchain Adoption in Traditional Industries 
 
@@ -83,17 +83,17 @@ The changes to the consensus rules in this upgrade include:
 
 **DeFi**
 
-- About $25 million worth of cryptocurrency was stolen from Uniswap and Lendf.Me on Apr 18th/19th. The attackers exploited the DeFi platforms’ oversight in handling ERC777 related transactions, which one of the root causes is ERC20 compatible interface (“transferFrom”) provided by ERC777. This seemingly similar interface can trigger some additional functions in ERC777, one of which was exploited by the attackers to perform reentrancy attacks against the DeFi platforms.(***)
+- About $25 million worth of cryptocurrency was stolen from Uniswap and Lendf.Me on Apr 18th/19th. The attackers exploited the DeFi platforms’ oversight in handling ERC777 related transactions, which one of the root causes is ERC20 compatible interface (“transferFrom”) provided by ERC777. This seemingly similar interface can trigger some additional functions in ERC777, one of which was exploited by the attackers to perform reentrancy attacks against the DeFi platforms.***
 
-- A group of miners that controlled 70% hash rate of Factom manipulated the price of a Japanese Yen-pegged stablecoin dubbed pJPY on PegNet, a Factom-based decentralized exchange. By submitting false data, they artificially inflate a wallet balance from $11 to $6.7 million. However, the group was unsuccessful in their attempt to liquidate the funds, and no financial loss was suffered.(**)
+- A group of miners that controlled 70% hash rate of Factom manipulated the price of a Japanese Yen-pegged stablecoin dubbed pJPY on PegNet, a Factom-based decentralized exchange. By submitting false data, they artificially inflate a wallet balance from $11 to $6.7 million. However, the group was unsuccessful in their attempt to liquidate the funds, and no financial loss was suffered.**
 
 **Others**
 
-- Telegram witnessed a new arbitrage scam where three victims lost a total of 834 ETH. The scammer claimed to provide conversion between ETH and HT at the ratio of 1:50-100, swindling the victims to transfer ETH to their accounts with no HT given back.(*)
+- Telegram witnessed a new arbitrage scam where three victims lost a total of 834 ETH. The scammer claimed to provide conversion between ETH and HT at the ratio of 1:50-100, swindling the victims to transfer ETH to their accounts with no HT given back.*
 
-*Note (similarly hereinafter)：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30*
+*Note similarly hereinafter：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30*
 
-*Importance level (similarly hereinafter): low *; medium **; high ***
+*Importance level similarly hereinafter: low *; medium **; high ***
 
 *Sources: Prysmatic Labs Medium, Aztec Medium, Decrypt, Peckshield Medium, Bitcoincash.org, U.today, Polkadot Lightpaper, ETC Medium, Coindesk, Libra org, Boxmining, Cryptopotato, Coinhunter, analyzed by Matrixport*
 
