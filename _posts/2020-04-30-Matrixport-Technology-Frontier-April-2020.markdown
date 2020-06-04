@@ -19,7 +19,7 @@ Matrixport Research
 
 **Aztec released first ZK² rollup code**
 
-*ETH ecosystem；Proof of Concept Done***；
+*ETH ecosystem；Proof of Concept Done***
 
 - First implementation of ZK² rollup, a universal recursion for pairing-based SNARKs over a single curve
 
@@ -71,7 +71,7 @@ The changes to the consensus rules in this upgrade include:
 
 **Financial Industry**
 
-- Hong Kong-based Hex Trust is partnering with the enterprise blockchain company R3 to enable its clients to issue collateral tokens for derivatives on Corda; (R3’s Corda; Partnership achieved*)
+- Hong Kong-based Hex Trust is partnering with the enterprise blockchain company R3 to enable its clients to issue collateral tokens for derivatives on Corda; (R3’s Corda; Partnership achieved)
 
 - The second iteration of Facebook’s Libra project has been announced; changes include: announcement of single-currency stablecoin, introduction of a capital buffer for crisis situations, commitment to a permissioned blockchain system (Libra platform), and implementation of an in-depth compliance strategy in collaboration with regulators (Libra; Iteration announcement***)
 
@@ -89,7 +89,7 @@ The changes to the consensus rules in this upgrade include:
 
 **Others**
 
-- Telegram witnessed a new arbitrage scam where three victims lost a total of 834 ETH. The scammer claimed to provide conversion between ETH and HT at the ratio of 1:50-100, swindling the victims to transfer ETH to their accounts with no HT given back.*
+- Telegram witnessed a new arbitrage scam where three victims lost a total of 834 ETH. The scammer claimed to provide conversion between ETH and HT at the ratio of 1:50-100, swindling the victims to transfer ETH to their accounts with no HT given back.
 
 *Note：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30*
 
