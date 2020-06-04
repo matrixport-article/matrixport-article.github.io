@@ -45,7 +45,7 @@ The changes to the consensus rules in this upgrade include:
 
 **Xpring Wants to Make XRP Transactions Private**
 
-*Tech Proposal**
+*Tech Proposal*
 
 - Ripple's core developer team Xpring proposes to add an opt-in privacy feature to the XRP Ledger
 
@@ -55,17 +55,17 @@ The changes to the consensus rules in this upgrade include:
 
 **Polkadot  published its 3rd version of Lightpaper**
 
-- Polkadot’s design offers several distinct advantages over existing and legacy networks, including heterogeneous sharding, scalability, upgradeability, transparent governance and cross-chain composability
-
 *Lightpaper Revise***
 
+- Polkadot’s design offers several distinct advantages over existing and legacy networks, including heterogeneous sharding, scalability, upgradeability, transparent governance and cross-chain composability
+
 **ETC TestNets Successfully Activate Phoenix**
+
+*Testnet Upgrade***
 
 - Mordor and Kotti, 2 of 2 TestNets for ETC, have successfully activated the Phoenix upgrade on Mar 9th and Apr 15th respectively
 
 - ETC Core is preparing for Phonenix’s MainNet activation 
-
-*Testnet Upgrade***
 
 ### Blockchain Adoption in Traditional Industries 
 
@@ -91,9 +91,9 @@ The changes to the consensus rules in this upgrade include:
 
 - Telegram witnessed a new arbitrage scam where three victims lost a total of 834 ETH. The scammer claimed to provide conversion between ETH and HT at the ratio of 1:50-100, swindling the victims to transfer ETH to their accounts with no HT given back.*
 
-*Note similarly hereinafter：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30*
+*Note：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30*
 
-*Importance level similarly hereinafter: low *; medium **; high ***
+*Importance level: low *; medium **; high ***
 
 *Sources: Prysmatic Labs Medium, Aztec Medium, Decrypt, Peckshield Medium, Bitcoincash.org, U.today, Polkadot Lightpaper, ETC Medium, Coindesk, Libra org, Boxmining, Cryptopotato, Coinhunter, analyzed by Matrixport*
 
