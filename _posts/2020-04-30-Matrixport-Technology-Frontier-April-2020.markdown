@@ -95,7 +95,7 @@ The changes to the consensus rules in this upgrade include:
 
 *Importance level*
 
-*low-no stars; medium**; high****☆
+*low-☆; medium☆☆; high☆☆☆*
 
 *Sources: Prysmatic Labs Medium, Aztec Medium, Decrypt, Peckshield Medium, Bitcoincash.org, U.today, Polkadot Lightpaper, ETC Medium, Coindesk, Libra org, Boxmining, Cryptopotato, Coinhunter, analyzed by Matrixport*
 
