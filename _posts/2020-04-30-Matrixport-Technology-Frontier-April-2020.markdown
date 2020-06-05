@@ -11,7 +11,7 @@ Matrixport Research
 ### Public Blockchain:  Top 10
 **Prysmatic Labs published Topaz test network for ETH2.0**
 
-*Testnet Launch****
+*Testnet Launch☆☆☆*
 
 - Topaz is the first testnet with full ETH 2.0 Phase 0 features
 
@@ -19,7 +19,7 @@ Matrixport Research
 
 **Aztec released first ZK² rollup code**
 
-*ETH ecosystem；Proof of Concept Done***
+*ETH ecosystem；Proof of Concept Done☆☆*
 
 - First implementation of ZK² rollup, a universal recursion for pairing-based SNARKs over a single curve
 
@@ -27,7 +27,7 @@ Matrixport Research
 
 **Incognito plans to enable anonymous transactions on major DeFi platforms**
 
-*ETH ecosystem；Official Announcement***
+*ETH ecosystem；Official Announcement☆☆*
 
 - This feature will be enabled using zero-knowledge proofs on ETH sidechains
 
@@ -35,7 +35,7 @@ Matrixport Research
 
 **BCH published Network Upgrade Specification on May 15, 2020**
 
-*Upgrade Specification***
+*Upgrade Specification☆☆*
 
 The changes to the consensus rules in this upgrade include:
 
@@ -45,7 +45,7 @@ The changes to the consensus rules in this upgrade include:
 
 **Xpring Wants to Make XRP Transactions Private**
 
-*Tech Proposal*
+*Tech Proposal☆*
 
 - Ripple's core developer team Xpring proposes to add an opt-in privacy feature to the XRP Ledger
 
@@ -55,13 +55,13 @@ The changes to the consensus rules in this upgrade include:
 
 **Polkadot  published its 3rd version of Lightpaper**
 
-*Lightpaper Revise***
+*Lightpaper Revise☆☆*
 
 - Polkadot’s design offers several distinct advantages over existing and legacy networks, including heterogeneous sharding, scalability, upgradeability, transparent governance and cross-chain composability
 
 **ETC TestNets Successfully Activate Phoenix**
 
-*Testnet Upgrade***
+*Testnet Upgrade☆☆*
 
 - Mordor and Kotti, 2 of 2 TestNets for ETC, have successfully activated the Phoenix upgrade on Mar 9th and Apr 15th respectively
 
@@ -71,31 +71,29 @@ The changes to the consensus rules in this upgrade include:
 
 **Financial Industry**
 
-- Hong Kong-based Hex Trust is partnering with the enterprise blockchain company R3 to enable its clients to issue collateral tokens for derivatives on Corda; (R3’s Corda; Partnership achieved)
+- Hong Kong-based Hex Trust is partnering with the enterprise blockchain company R3 to enable its clients to issue collateral tokens for derivatives on Corda; (R3’s Corda; Partnership achieved☆)
 
-- The second iteration of Facebook’s Libra project has been announced; changes include: announcement of single-currency stablecoin, introduction of a capital buffer for crisis situations, commitment to a permissioned blockchain system (Libra platform), and implementation of an in-depth compliance strategy in collaboration with regulators (Libra; Iteration announcement***)
+- The second iteration of Facebook’s Libra project has been announced; changes include: announcement of single-currency stablecoin, introduction of a capital buffer for crisis situations, commitment to a permissioned blockchain system (Libra platform), and implementation of an in-depth compliance strategy in collaboration with regulators (Libra; Iteration announcement☆☆☆)
 
-- Rumours are circulating on Chinese social media that DCEP has already undergone internal closed beta testing by the Agricultural Bank of China, the DCEP wallet will support several major functions including: digital asset exchange, wallet management, ability to look up past transactions, payment via QR code, remittances and mobile payments; (DCEP; Internal test**) 
+- Rumours are circulating on Chinese social media that DCEP has already undergone internal closed beta testing by the Agricultural Bank of China, the DCEP wallet will support several major functions including: digital asset exchange, wallet management, ability to look up past transactions, payment via QR code, remittances and mobile payments; (DCEP; Internal test☆☆) 
 
-- Blockchain developer IOV Labs created a proof-of-concept that aims to speed fiat currency settlement in Argentina, with the central bank and major commercial banks including Santander and BBVA actively testing it. The solution is based on permissioned blockchain and RSK Smart Contract Network. (RSK; Proof-of-concept**)
+- Blockchain developer IOV Labs created a proof-of-concept that aims to speed fiat currency settlement in Argentina, with the central bank and major commercial banks including Santander and BBVA actively testing it. The solution is based on permissioned blockchain and RSK Smart Contract Network. (RSK; Proof-of-concept☆☆)
 
 ### Security Incidents
 
 **DeFi**
 
-- About $25 million worth of cryptocurrency was stolen from Uniswap and Lendf.Me on Apr 18th/19th. The attackers exploited the DeFi platforms’ oversight in handling ERC777 related transactions, which one of the root causes is ERC20 compatible interface (“transferFrom”) provided by ERC777. This seemingly similar interface can trigger some additional functions in ERC777, one of which was exploited by the attackers to perform reentrancy attacks against the DeFi platforms.***
+- About $25 million worth of cryptocurrency was stolen from Uniswap and Lendf.Me on Apr 18th/19th. The attackers exploited the DeFi platforms’ oversight in handling ERC777 related transactions, which one of the root causes is ERC20 compatible interface (“transferFrom”) provided by ERC777. This seemingly similar interface can trigger some additional functions in ERC777, one of which was exploited by the attackers to perform reentrancy attacks against the DeFi platforms.☆☆☆
 
-- A group of miners that controlled 70% hash rate of Factom manipulated the price of a Japanese Yen-pegged stablecoin dubbed pJPY on PegNet, a Factom-based decentralized exchange. By submitting false data, they artificially inflate a wallet balance from $11 to $6.7 million. However, the group was unsuccessful in their attempt to liquidate the funds, and no financial loss was suffered.**
+- A group of miners that controlled 70% hash rate of Factom manipulated the price of a Japanese Yen-pegged stablecoin dubbed pJPY on PegNet, a Factom-based decentralized exchange. By submitting false data, they artificially inflate a wallet balance from $11 to $6.7 million. However, the group was unsuccessful in their attempt to liquidate the funds, and no financial loss was suffered.☆☆
 
 **Others**
 
-- Telegram witnessed a new arbitrage scam where three victims lost a total of 834 ETH. The scammer claimed to provide conversion between ETH and HT at the ratio of 1:50-100, swindling the victims to transfer ETH to their accounts with no HT given back.
+- Telegram witnessed a new arbitrage scam where three victims lost a total of 834 ETH. The scammer claimed to provide conversion between ETH and HT at the ratio of 1:50-100, swindling the victims to transfer ETH to their accounts with no HT given back.☆
 
 *Note：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30*
 
-*Importance level*
-
-*low-☆; medium☆☆; high☆☆☆*
+*Importance level：low-☆; medium☆☆; high☆☆☆*
 
 *Sources: Prysmatic Labs Medium, Aztec Medium, Decrypt, Peckshield Medium, Bitcoincash.org, U.today, Polkadot Lightpaper, ETC Medium, Coindesk, Libra org, Boxmining, Cryptopotato, Coinhunter, analyzed by Matrixport*
 
