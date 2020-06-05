@@ -94,6 +94,7 @@ The changes to the consensus rules in this upgrade include:
 *Note：Top 10 refers to the marketcap rank indicated in coinmarketcap on 2020/4/30*
 
 *Importance level：*
+
 *low-no stars; *
 *medium**;* 
 *high***；*
