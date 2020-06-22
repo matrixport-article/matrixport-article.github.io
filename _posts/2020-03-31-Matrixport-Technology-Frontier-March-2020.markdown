@@ -14,7 +14,7 @@ Matrixport Research
 ### Public Blockchain: Top 10
 **Pedro Febrero’s vision about Bitcoin in 2020**
 
-*Opinion***
+*Opinion☆☆*
 
 - A package of new features are suggested to be activated on BTC via soft fork in 2020
 
@@ -26,7 +26,7 @@ Matrixport Research
 
 **Vitalik’s vision about Ethereum**
 
-*Vision****
+*Vision☆☆☆*
 
 - Expect ETH 2.0 to launch this summer
 
@@ -38,7 +38,7 @@ Matrixport Research
 
 **ETH 2.0 Audit Complete, Minor Changes Proposed**
 
-*Official Announcement****
+*Official Announcement☆☆☆*
 
 - Least Authority has just concluded the preliminary audit of ETH 2.0 
 
@@ -48,7 +48,7 @@ Matrixport Research
 
 **Aztec: Efficient Privacy with ZK2 Rollup in ETH**
 
-*Development Plan***
+*Development Plan☆☆*
 
 - Aztec: a private transaction network on Ethereum, launched on 2020/1/31, with next steps toward ZK2 Rollup (features below)
 
@@ -58,14 +58,14 @@ Matrixport Research
 
 **USDT is now live on BCH using SLP**
 
-*Implementation****
+*Implementation☆☆☆*
 
 - Tether is using the Simple Ledger Protocol (SLP) as the technical means to launch USDT on BCH
 
 ### Public Blockchain: Others
 **Qtum developers worked at building offline staking**
 
-*Development Plan***
+*Development Plan☆☆*
 
 *# PoS; smart contract; account-UTXO mixed*
 
@@ -73,7 +73,7 @@ Matrixport Research
 
 **Ontology launched P2P Claim**
 
-*Implementation***
+*Implementation☆☆*
 
 *# PoS; smart contract; account*
 
@@ -81,7 +81,7 @@ Matrixport Research
 
 **Cosmos published IBC demo**
 
-*Demo****
+*Demo☆☆☆*
 
 *# BPoS; cross chain*
 
@@ -91,7 +91,7 @@ Matrixport Research
 
 **Byron Reboot: Marking A New Era For Cardano**
 
-*Development Plan***
+*Development Plan☆☆*
 
 *# PoS; smart contract*
 
@@ -101,58 +101,58 @@ Matrixport Research
 
 **Algorand integrated Tether**
 
-*Official Announcement**
+*Official Announcement☆*
 
 *# PPoS*
 
-Tether integrated as the first stablecoin on Algorand（ Official Announcement*）
+Tether integrated as the first stablecoin on Algorand（ Official Announcement☆）
 
 ### Blockchain Adoption in Traditional Industries
 **Financial Industry**
-- DIFC and Mashreq plan to offer blockchain based KYC solution, to support licensed businesses and corporates opening digital bank accounts instantly; （Consortium chain; Partnership achieved;*）
+- DIFC and Mashreq plan to offer blockchain based KYC solution, to support licensed businesses and corporates opening digital bank accounts instantly; （Consortium chain; Partnership achieved;☆）
 
-- National Bank of Fujairah (NBF), UAE partners Ripple to service huge Indian customers, to ensure secure and real-time payments;（Ripple; Partnership achieved;*)
+- National Bank of Fujairah (NBF), UAE partners Ripple to service huge Indian customers, to ensure secure and real-time payments;（Ripple; Partnership achieved;☆)
 
-- Users of the Starbucks mobile app are now being presented with Bakkt Cash as a payment option;(Beta test;*)
+- Users of the Starbucks mobile app are now being presented with Bakkt Cash as a payment option;(Beta test;☆)
 
-- SMBC and Layer X4 established a company to develop next-generation asset management businesses using blockchain technology;(Consortium chain; Partnership achieved;*) 
+- SMBC and Layer X4 established a company to develop next-generation asset management businesses using blockchain technology;(Consortium chain; Partnership achieved;☆) 
 
-- Thailand‘s Siam Commercial Bank (SCB) is designing a stablecoin (STB, Stable Thai Baht) that is pegged to the Thai baht; STB will be based on Ethereum; ( Ethereum; Plan announced;**)
+- Thailand‘s Siam Commercial Bank (SCB) is designing a stablecoin (STB, Stable Thai Baht) that is pegged to the Thai baht; STB will be based on Ethereum; ( Ethereum; Plan announced;☆☆)
 
 **Supply chain**
 - Nike, CK and Tommy have been trialing blockchain and RFID tags to track products on a global supply
-chain. The aim is to provide a secure way to share data, while retaining ownership of it; (Hyperledger; Under test;*)
+chain. The aim is to provide a secure way to share data, while retaining ownership of it; (Hyperledger; Under test;☆)
 
 ### Security Incidents
 **Exchanges**
 
-- FCoin had difficulty in redemption, with funding gap between 7000-13000 BTC(***)
+- FCoin had difficulty in redemption, with funding gap between 7000-13000 BTC☆☆☆
 
-- Singapore exchange Coinhako restricted user withdrawals after being attacked(**)
+- Singapore exchange Coinhako restricted user withdrawals after being attacked☆☆
 
-- A former employee from Digitex stole private information of more than 8,000 users(**)
+- A former employee from Digitex stole private information of more than 8,000 users☆☆
 
-- Exchanges such as OKEx and Bitfinex shut down on 28 Feb by DDOS attacks(**)
+- Exchanges such as OKEx and Bitfinex shut down on 28 Feb by DDOS attacks☆☆
 
 **DeFi**
 
-- BZX protocol was attacked by liquidity arbitrage of combinable assets(***)
+- BZX protocol was attacked by liquidity arbitrage of combinable assets☆☆☆
 
-- Curve had an abnormal transaction, and the attacker conducted a clamp attack on the two fund pools, curve.fi and y.curve.fi(**)
+- Curve had an abnormal transaction, and the attacker conducted a clamp attack on the two fund pools, curve.fi and y.curve.fi☆☆
 
-Note: Many of these incidents happened in Jan and Feb*
+Note: Many of these incidents happened in Jan and Feb☆
 
 **Protocol**
-- Omni Core team released protocol update to fix doubled transaction bug(**)
+- Omni Core team released protocol update to fix doubled transaction bug☆☆
 
 **Other**
 
-- An operation and maintenance employee in Baidu illegally controlled 155 servers to "mine crypto assets": sentenced to three years in prison(*)
+- An operation and maintenance employee in Baidu illegally controlled 155 servers to "mine crypto assets": sentenced to three years in prison☆
 
-*Note (similarly hereinafter):Top 10 refers to the marketcap rank indicated in coinmarketcap by 2020/3/31
+*Note :Top 10 refers to the marketcap rank indicated in coinmarketcap by 2020/3/31
 Many of these incidents happened in Jan and Feb*
 
-*Importance level (similarly hereinafter): low *; medium **; high ***
+*Importance level：low-☆; medium-☆☆; high-☆☆☆*
 
 *Sources: AMBCrypto, Toshitimes, Coindesk, Cryptobriefing, Medium, Qtum-Medium, Ontology-Medium, cosmos-twitter, Zycrypto, Algorand-twitter,gulfnews, NewsLogical, Decrypt, Blockspaper,Crypto watch, Beosin-Eagle Eye, The block, Block Beats, analyzed by Matrixport*
 
