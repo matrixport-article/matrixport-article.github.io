@@ -112,6 +112,5 @@ However, based on analysis of the recent data, the current situation doesn’t s
 ![](https://raw.github.com/matrixport-article/matrixport-article.github.io/master/_images/5/6.png)
 
 ***Disclaimer***
-
 *Matrixport provides this analysis as general information only. Matrixport accepts no responsibility for the accuracy or completeness of any information herein contained and Matrixport shall not be responsible for any loss arising from any investment based on any forecast or other information herein contained. The contents of this materials should not be construed as an express or implied promise, guarantee or implication by Matrixport that the forecast information will eventuate. The cryptocurrency market is highly volatile. Buying, selling, holding, or investing in cryptocurrencies or related product carries various risks and is not suitable for all investors. Please seek expert advice, and always ensure that you fully understand these risks before participating in the cryptocurrency market.
 Matrixport is not acting as a financial adviser, consultant or fiduciary to you with respect to any information provided. Any information available here is “general” in nature and for informational purposes only.*
