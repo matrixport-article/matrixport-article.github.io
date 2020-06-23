@@ -1,6 +1,4 @@
-# Price Indicators Deep Dive and Bitcoin’s Price Analysis
-Matrixport View_Market #2, 19 June 2020
-
+# Matrixport View_Market #2
 Matrixport Research
 
 ### Executive Summary
