@@ -67,8 +67,6 @@ Although DeFi reduced the risks associated to centralization to a certain extent
 
 On 23 June, Coinbase reported that payment giant PayPal and its subsidiary Venmo (PayPal’s mobile payment service subsidiary) plan to roll out direct sales of digital assets to 325 million users in the next 3 months. 
 
-***Note: In this report, the black colored text refers to the latest news within the market, and the green colored text is the analysis and commentary from Matrixport Research.***
-
 ### Abnormal Activity Tracker
 
 At the moment, the total market capitalization of stablecoins is US$12b, with an appreciation of 100% in the last 3 months. Although the market capitalization continues to grow, the growth rate has slowed in June when compared to April and May.
